@@ -12,7 +12,7 @@ To install: Can only be installed on windows because it relies on SPFIT/SPCAT.
 Make a directory on your computer, and copy the entire contents of this dropbox folder into it. This directory can be on a shared drive, like dropbox, or can be a “normal” directory. The directory cannot have spaces anywhere in its name (thanks Matlab)
 run ‘autofit’.  This runs the scaffold algorithm on our recorded nopinone spectrum, which is stored in /Molecules/Nopinone/Nopinone.csv.  Editing the first few lines of autofit (in particular line 7) can run it on any other spectrum in the library. The command window will show lots of ‘in progress’ text, and after about 30 seconds it should bring up a window that looks like this:
 
-![](https://github.com/DavePattersonGroup/RAARR/tree/master/images/image1.png)
+![](https://raw.githubusercontent.com/DavePattersonGroup/RAARR/master/images/image1.png)
 
 This gives a rather simple fit (one conformer, no CD) of nopinone.  It found 64 lines, and lists A,B, and C in the legend of the largest subplot. The upper left plot is the fit; the right hand plot is the scaffold used.
 
@@ -60,10 +60,10 @@ The fake data created by this method contains the various distortions described 
 defaultcsvargsin() within makefakecsv()
 
 A successful fit on looks like:
-![](https://github.com/DavePattersonGroup/RAARR/tree/master/images/image2.png)
+![](https://raw.githubusercontent.com/DavePattersonGroup/RAARR/master/images/image2.png)
 
 It also launches pgopher with the appropriate ‘data’, which should look like:
-![](https://github.com/DavePattersonGroup/RAARR/tree/master/images/image3.png)
+![](https://raw.githubusercontent.com/DavePattersonGroup/RAARR/master/images/image3.png)
 
 This is useful for example to quickly check line assignments; the pgopher graphical interface is excellent.  The pgo files created this way are a bit strange; they are actually three different molecules, one with a-types, one with b-types, and one with c-types.  This is useful in some technical ways, but pedants might point out that Stark shifts in such ensembles will not be quite right.  
 
