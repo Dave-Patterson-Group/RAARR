@@ -1,0 +1,858 @@
+BenzOD: 2 components found
+ component 1: FOUND: [4679.2        1443      1169.2] 27 upvotes, scaffold 1, p=1.8e-10
+ component 2: FOUND: [4667.7      1452.1      1163.6] 30 upvotes, scaffold 1, p=3.9e-10
+ final phase 1 report: no scaffolds found, ran to line 40
+
+florol: 2 components found
+ component 1: FOUND: [1906      463.12       443.2] 102 upvotes, scaffold 1, p=3.0e-65
+ component 2: FOUND: [1881.6      457.52      438.71] 90 upvotes, scaffold 1, p=5.3e-22
+ final phase 1 report: best scaffold net pval 2.7e-19 [2.8e-05 original], 5 constraints, [6.3e-11 6.0e-28]
+
+anisaldehyde: 2 components found
+ component 1: FOUND: [4661.9      698.39      610.06] 90 upvotes, scaffold 1, p=5.9e-66
+ component 2: FOUND: [4160.7      717.84      614.89] 87 upvotes, scaffold 1, p=4.8e-65
+ final phase 1 report: best scaffold net pval 6.1e-11 [2.7e+00 original], 4 constraints, [6.7e-06 5.8e-23]
+
+menthonespectrum1: 1 components}} found
+ component 1: FOUND: [1953.7      694.53      586.57] 77 upvotes, scaffold 1, p=1.7e-54
+ final phase 1 report: best scaffold net pval 1.2e-09 [3.9e+02 original], 4 constraints, [1.2e-05 6.3e-22]
+
+myrtenal: 1 components found
+ component 1: FOUND: [1666.4      962.37       836.9] 125 upvotes, scaffold 1, p=1.0e-72
+ final phase 1 report: no scaffolds found, ran to line 40
+
+alpha_pinene: 1 components found
+ component 1: FOUND: [1936.6      1228.6        1127] 74 upvotes, scaffold 4, p=2.8e-11
+ final phase 1 report: no scaffolds found, ran to line 40
+
+ethylguiacolspectrum1: 1 components found
+ component 1: FOUND: [1640.4      802.44      567.85] 40 upvotes, scaffold 1, p=1.9e-40
+ final phase 1 report: no scaffolds found, ran to line 40
+
+Nopinone: 3 components found
+ component 1: FOUND: [1923.3      1297.6        1164] 64 upvotes, scaffold 1, p=9.8e-48
+ component 2: FOUND: [1029.3      859.77      855.73] 17 upvotes, scaffold 1, p=5.5e-10
+ component 3: FOUND: [1147.8      858.47      857.15] 12 upvotes, scaffold 1, p=5.4e-10
+ final phase 1 report: best scaffold net pval 2.9e-12 [2.0e+03 original], 5 constraints, [1.5e-13 6.0e-28]
+
+myrtenolspectrum1: 2 components found
+ component 1: FOUND: [1589.4      971.92       827.7] 105 upvotes, scaffold 2, p=3.8e-22
+ component 2: FOUND: [1701.6      871.65      802.15] 89 upvotes, scaffold 1, p=6.6e-58
+ final phase 1 report: best scaffold net pval 4.5e-10 [1.3e+00 original], 4 constraints, [2.3e-05 1.1e-22]
+
+cinnamaldehyde: 1 components found
+ component 1: FOUND: [4866.4      579.06      517.81] 107 upvotes, scaffold 1, p=9.6e-73
+ final phase 1 report: no scaffolds found, ran to line 40
+
+betapinene: 1 components found
+ component 1: FOUND: [1901.9      1293.7      1150.8] 63 upvotes, scaffold 7, p=2.8e-16
+ final phase 1 report: best scaffold net pval 3.3e-15 [2.5e-07 original], 5 constraints, [1.4e-10 3.0e-27]
+
+benzaldehyde: 2 components found
+ component 1: FOUND: [5234.4      1564.3      1204.7] 57 upvotes, scaffold 1, p=2.6e-26
+ component 2: FOUND: [5229.6      1564.5      1205.4] 65 upvotes, scaffold 1, p=3.1e-15
+ final phase 1 report: no scaffolds found, ran to line 35
+
+BenzOD: 2 components found
+ component 1: FOUND: [4679.2        1443      1169.2] 27 upvotes, scaffold 1, p=1.8e-10
+ component 2: FOUND: [4667.7      1452.1      1163.6] 30 upvotes, scaffold 1, p=3.9e-10
+ final phase 1 report: 1 scaffolds, best scaffold net pval 3.9e-10 [3.2e-03 original], 3 constraints, [6.3e-03 3.1e-17]
+
+BenzOD: 2 components found
+ component 1: FOUND: [4679.2        1443      1169.2] 27 upvotes, scaffold 1, p=1.8e-10
+ component 2: FOUND: [4667.7      1452.1      1163.6] 30 upvotes, scaffold 1, p=3.9e-10
+ final phase 1 report: 1 scaffolds, best scaffold net pval 3.9e-10 [3.2e-03 original], 3 constraints, [6.3e-03 3.1e-17]
+
+florol: 2 components found
+ component 1: FOUND: [1906      463.12       443.2] 102 upvotes, scaffold 1, p=3.0e-65
+ component 2: FOUND: [1881.6      457.52      438.71] 90 upvotes, scaffold 1, p=5.3e-22
+ final phase 1 report: 27 scaffolds, best scaffold net pval 5.3e-22 [1.1e+00 original], 5 constraints, [2.9e-16 2.5e-30]
+
+anisaldehyde: 2 components found
+ component 1: FOUND: [4661.9      698.39      610.06] 90 upvotes, scaffold 1, p=5.9e-66
+ component 2: FOUND: [4160.7      717.84      614.89] 87 upvotes, scaffold 1, p=4.8e-65
+ final phase 1 report: 5 scaffolds, best scaffold net pval 4.8e-65 [1.0e-01 original], 9 constraints, [9.2e-43 1.0e-55]
+
+menthonespectrum1: 1 components found
+ component 1: FOUND: [1953.7      694.53      586.57] 77 upvotes, scaffold 1, p=1.7e-54
+ final phase 1 report: 2 scaffolds, best scaffold net pval 1.2e-09 [3.9e+02 original], 4 constraints, [1.2e-05 6.3e-22]
+
+myrtenal: 1 components found
+ component 1: FOUND: [1666.4      962.37       836.9] 125 upvotes, scaffold 1, p=1.0e-72
+ final phase 1 report: no scaffolds found, ran to line 40
+
+alpha_pinene: 1 components found
+ component 1: FOUND: [1936.6      1228.6        1127] 74 upvotes, scaffold 4, p=2.8e-11
+ final phase 1 report: no scaffolds found, ran to line 40
+
+ethylguiacolspectrum1: 2 components found
+ component 1: FOUND: [673.52      600.23       565.5] 41 upvotes, scaffold 1, p=1.9e-40
+ component 2: FOUND: [1640.5      802.45      567.84] 50 upvotes, scaffold 3, p=9.5e-11
+ final phase 1 report: 3 scaffolds, best scaffold net pval 1.5e-40 [8.5e+00 original], 9 constraints, [4.5e-38 9.8e-52]
+
+Nopinone: 2 components found
+ component 1: FOUND: [1923.3      1297.6        1164] 64 upvotes, scaffold 1, p=9.8e-48
+ component 2: FOUND: [952.49      863.42      851.43] 30 upvotes, scaffold 1, p=5.5e-10
+ final phase 1 report: 1 scaffolds, best scaffold net pval 5.5e-10 [5.1e+03 original], 4 constraints, [6.2e-07 5.7e-22]
+
+myrtenolspectrum1: 2 components found
+ component 1: FOUND: [1589.4      971.92       827.7] 105 upvotes, scaffold 2, p=3.8e-22
+ component 2: FOUND: [1701.6      871.65      802.15] 89 upvotes, scaffold 1, p=6.6e-58
+ final phase 1 report: 2 scaffolds, best scaffold net pval 6.6e-58 [1.5e-01 original], 8 constraints, [9.6e-36 2.9e-46]
+
+cinnamaldehyde: 1 components found
+ component 1: FOUND: [4866.4      579.06      517.81] 107 upvotes, scaffold 1, p=9.6e-73
+ final phase 1 report: no scaffolds found, ran to line 40
+
+betapinene: 2 components found
+ component 1: FOUND: [1901.9      1293.7      1150.8] 63 upvotes, scaffold 7, p=2.8e-16
+ component 2: FOUND: [1244.9      1241.6      1003.5] 12 upvotes, scaffold 14, p=4.8e-11
+ final phase 1 report: 29 scaffolds, best scaffold net pval 3.3e-15 [2.5e-07 original], 5 constraints, [1.4e-10 3.0e-27]
+
+Lemon oil: 1 components found
+ component 1: FOUND: [3058      717.04      679.25] 91 upvotes, scaffold 1, p=1.8e-41
+ final phase 1 report: 29 scaffolds, best scaffold net pval 1.4e-16 [1.1e+00 original], 5 constraints, [1.4e-09 2.0e-26]
+
+benzaldehyde: 2 components found
+ component 1: FOUND: [5234.4      1564.3      1204.7] 57 upvotes, scaffold 1, p=2.6e-26
+ component 2: FOUND: [5229.6      1564.5      1205.4] 65 upvotes, scaffold 1, p=3.1e-15
+ final phase 1 report: 1 scaffolds, best scaffold net pval 3.1e-15 [1.7e-03 original], 5 constraints, [2.1e-10 2.8e-30]
+
+BenzOD: 2 components found
+ component 1: FOUND: [4679.2        1443      1169.2] 27 upvotes, scaffold 1, p=1.8e-10
+ component 2: FOUND: [4667.7      1452.1      1163.6] 30 upvotes, scaffold 1, p=3.9e-10
+ final phase 1 report: no scaffolds found, ran to line 40
+
+florol: 2 components found
+ component 1: FOUND: [1906      463.12       443.2] 102 upvotes, scaffold 1, p=3.0e-65
+ component 2: FOUND: [1881.6      457.52      438.71] 90 upvotes, scaffold 1, p=5.3e-22
+ final phase 1 report: 32 scaffolds, best scaffold net pval 2.7e-19 [2.8e-05 original], 5 constraints, [6.3e-11 6.0e-28]
+
+anisaldehyde: 2 components found
+ component 1: FOUND: [4661.9      698.39      610.06] 90 upvotes, scaffold 1, p=5.9e-66
+ component 2: FOUND: [4160.7      717.84      614.89] 87 upvotes, scaffold 1, p=4.8e-65
+ final phase 1 report: 3 scaffolds, best scaffold net pval 6.1e-11 [2.7e+00 original], 4 constraints, [6.7e-06 5.8e-23]
+
+menthonespectrum1: 2 components found
+ component 1: FOUND: [1953.7      694.53      586.57] 77 upvotes, scaffold 1, p=1.7e-54
+ component 2: FOUND: [2022      693.54      562.13] 112 upvotes, scaffold 1, p=5.6e-11
+ final phase 1 report: 5 scaffolds, best scaffold net pval 9.0e-12 [1.4e+01 original], 4 constraints, [5.9e-08 2.2e-23]
+
+myrtenal: 1 components found
+ component 1: FOUND: [1666.4      962.37       836.9] 125 upvotes, scaffold 1, p=1.0e-72
+ final phase 1 report: no scaffolds found, ran to line 40
+
+alpha_pinene: 1 components found
+ component 1: FOUND: [1936.6      1228.6        1127] 74 upvotes, scaffold 4, p=2.8e-11
+ final phase 1 report: no scaffolds found, ran to line 40
+
+ethylguiacolspectrum1: 1 components found
+ component 1: FOUND: [1640.4      802.45      567.84] 47 upvotes, scaffold 2, p=1.4e-20
+ final phase 1 report: no scaffolds found, ran to line 40
+
+Nopinone: 3 components found
+ component 1: FOUND: [1923.3      1297.6        1164] 64 upvotes, scaffold 1, p=9.8e-48
+ component 2: FOUND: [1029.3      859.77      855.73] 17 upvotes, scaffold 1, p=5.5e-10
+ component 3: FOUND: [1147.8      858.47      857.15] 12 upvotes, scaffold 1, p=5.4e-10
+ final phase 1 report: 1 scaffolds, best scaffold net pval 5.4e-10 [5.0e+03 original], 4 constraints, [6.2e-07 5.7e-22]
+
+myrtenolspectrum1: 2 components found
+ component 1: FOUND: [1589.4      971.92       827.7] 105 upvotes, scaffold 2, p=3.8e-22
+ component 2: FOUND: [1701.6      871.65      802.15] 89 upvotes, scaffold 1, p=6.6e-58
+ final phase 1 report: 2 scaffolds, best scaffold net pval 4.5e-10 [1.3e+00 original], 4 constraints, [2.3e-05 1.1e-22]
+
+cinnamaldehyde: 1 components found
+ component 1: FOUND: [4866.4      579.06      517.81] 107 upvotes, scaffold 1, p=9.6e-73
+ final phase 1 report: no scaffolds found, ran to line 40
+
+betapinene: 1 components found
+ component 1: FOUND: [1901.9      1293.7      1150.8] 63 upvotes, scaffold 7, p=2.8e-16
+ final phase 1 report: 32 scaffolds, best scaffold net pval 3.3e-15 [2.5e-07 original], 5 constraints, [1.4e-10 3.0e-27]
+
+Lemon oil: 1 components found
+ component 1: FOUND: [3058      717.04      679.25] 91 upvotes, scaffold 1, p=1.8e-41
+ final phase 1 report: 30 scaffolds, best scaffold net pval 1.4e-16 [1.1e+00 original], 5 constraints, [1.4e-09 2.0e-26]
+
+benzaldehyde: 2 components found
+ component 1: FOUND: [5234.4      1564.3      1204.7] 57 upvotes, scaffold 1, p=2.6e-26
+ component 2: FOUND: [5229.6      1564.5      1205.4] 65 upvotes, scaffold 1, p=3.1e-15
+ final phase 1 report: no scaffolds found, ran to line 40
+
+m_anisaldehyde: 3 components found
+ component 1: FOUND: [1939.9      1087.9      700.32] 101 upvotes, scaffold 1, p=1.5e-20
+ component 2: FOUND: [2619.3      880.89      662.24] 91 upvotes, scaffold 9, p=4.2e-11
+ component 3: FOUND: [2528.1      894.13      663.52] 62 upvotes, scaffold 1, p=4.8e-22
+ final phase 1 report: 4 scaffolds, best scaffold net pval 4.8e-22 [1.3e+00 original], 5 constraints, [2.0e-13 2.6e-30]
+
+Orange Extract: 3 components found
+ component 1: FOUND: [3058      717.05      679.25] 94 upvotes, scaffold 1, p=3.8e-68
+ component 2: FOUND: [3053.8      742.17      646.69] 90 upvotes, scaffold 1, p=3.6e-57
+ component 3: FOUND: [3040.8      745.66      643.75] 58 upvotes, scaffold 1, p=1.6e-83
+ final phase 1 report: 4 scaffolds, best scaffold net pval 1.6e-83 [2.0e-02 original], 10 constraints, [1.3e-51 3.1e-62]
+
+alpha_terpineol: 2 components found
+ component 1: FOUND: [2329.3      618.97      560.39] 122 upvotes, scaffold 1, p=1.0e-31
+ component 2: FOUND: [2329.1      620.77      562.41] 120 upvotes, scaffold 1, p=1.4e-15
+ final phase 1 report: 2 scaffolds, best scaffold net pval 4.2e-11 [2.7e+02 original], 4 constraints, [1.9e-06 2.1e-23]
+
+m_anisaldehyde: 3 components found
+ component 1: FOUND: [1939.9      1087.9      700.32] 101 upvotes, scaffold 4, p=1.5e-20
+ component 2: FOUND: [2619.3      880.89      662.24] 91 upvotes, scaffold 9, p=4.2e-11
+ component 3: FOUND: [2528.1      894.13      663.52] 62 upvotes, scaffold 1, p=4.8e-22
+ final phase 1 report: 4 scaffolds, best scaffold net pval 4.8e-22 [1.3e+00 original], 5 constraints, [2.0e-13 2.6e-30], quads Quad sums:
+0.0121
+0.0019
+-0.0010
+0.0112
+0.0009
+0.0229
+-0.0030
+0.0162
+0.0098
+0.0131
+0.0067
+
+Orange Extract: 3 components found
+ component 1: FOUND: [3058      717.05      679.25] 94 upvotes, scaffold 1, p=3.8e-68
+ component 2: FOUND: [3053.8      742.17      646.69] 90 upvotes, scaffold 1, p=3.6e-57
+ component 3: FOUND: [3040.8      745.66      643.75] 58 upvotes, scaffold 1, p=1.6e-83
+ final phase 1 report: 4 scaffolds, best scaffold net pval 1.6e-83 [2.0e-02 original], 10 constraints, [1.3e-51 3.1e-62], quads Quad sums:
+0.0055
+0.0058
+-0.0128
+0.0070
+-0.0073
+-0.0125
+-0.0003
+-0.0062
+0.0037
+-0.0091
+-0.0007
+-0.0055
+0.0012
+0.0070
+-0.0041
+-0.0017
+0.0030
+-0.0009
+0.0030
+0.0022
+-0.0062
+0.0053
+-0.0032
+
+alpha_terpineol: 2 components found
+ component 1: FOUND: [2329.3      618.97      560.39] 122 upvotes, scaffold 1, p=1.0e-31
+ component 2: FOUND: [2329.1      620.77      562.41] 120 upvotes, scaffold 1, p=1.4e-15
+ final phase 1 report: 2 scaffolds, best scaffold net pval 4.2e-11 [2.7e+02 original], 4 constraints, [1.9e-06 2.1e-23], quads Quad sums:
+-0.0293
+-0.0427
+-0.0128
+0.0189
+-0.0055
+-0.0262
+0.0134
+-0.0073
+
+BenzOD: 2 components found
+ component 1: FOUND: [4679.2        1443      1169.2] 27 upvotes, scaffold 1, p=1.8e-10
+ component 2: FOUND: [4667.7      1452.1      1163.6] 30 upvotes, scaffold 1, p=3.9e-10
+ final phase 1 report: no scaffolds found, ran to line 40
+
+florol: 2 components found
+ component 1: FOUND: [1906      463.12       443.2] 102 upvotes, scaffold 1, p=3.0e-65
+ component 2: FOUND: [1881.6      457.52      438.71] 90 upvotes, scaffold 1, p=5.3e-22
+ final phase 1 report: 32 scaffolds, best scaffold net pval 2.7e-19 [2.8e-05 original], 5 constraints, [6.3e-11 6.0e-28], quads Quad sums:
+0.0357
+-0.0424
+0.0494
+-0.0407
+0.0340
+0.0561
+-0.0067
+0.0262
+0.0108
+0.0155
+
+anisaldehyde: 2 components found
+ component 1: FOUND: [4661.9      698.39      610.06] 90 upvotes, scaffold 1, p=5.9e-66
+ component 2: FOUND: [4160.7      717.84      614.89] 87 upvotes, scaffold 1, p=4.8e-65
+ final phase 1 report: 3 scaffolds, best scaffold net pval 6.1e-11 [2.7e+00 original], 4 constraints, [6.7e-06 5.8e-23], quads Quad sums:
+-0.0100
+-0.0271
+0.0443
+-0.0149
+0.0321
+0.0271
+0.0172
+0.0122
+
+menthonespectrum1: 2 components found
+ component 1: FOUND: [1953.7      694.53      586.57] 77 upvotes, scaffold 1, p=1.7e-54
+ component 2: FOUND: [2022      693.54      562.13] 112 upvotes, scaffold 1, p=5.6e-11
+ final phase 1 report: 5 scaffolds, best scaffold net pval 9.0e-12 [1.4e+01 original], 4 constraints, [5.9e-08 2.2e-23], quads Quad sums:
+0.0058
+-0.0101
+-0.0137
+0.0296
+-0.0238
+0.0227
+0.0032
+0.0195
+
+myrtenal: 1 components found
+ component 1: FOUND: [1666.4      962.37       836.9] 125 upvotes, scaffold 1, p=1.0e-72
+ final phase 1 report: no scaffolds found, ran to line 40
+
+alpha_pinene: 1 components found
+ component 1: FOUND: [1936.6      1228.6        1127] 74 upvotes, scaffold 4, p=2.8e-11
+ final phase 1 report: no scaffolds found, ran to line 40
+
+ethylguiacolspectrum1: 1 components found
+ component 1: FOUND: [1640.4      802.45      567.84] 47 upvotes, scaffold 2, p=1.4e-20
+ final phase 1 report: no scaffolds found, ran to line 40
+
+Nopinone: 3 components found
+ component 1: FOUND: [1923.3      1297.6        1164] 64 upvotes, scaffold 1, p=9.8e-48
+ component 2: FOUND: [1029.3      859.77      855.73] 17 upvotes, scaffold 1, p=5.5e-10
+ component 3: FOUND: [1147.8      858.47      857.15] 12 upvotes, scaffold 1, p=5.4e-10
+ final phase 1 report: 1 scaffolds, best scaffold net pval 5.4e-10 [5.0e+03 original], 4 constraints, [6.2e-07 5.7e-22], quads Quad sums:
+0.0781
+-0.0397
+0.0763
+0.0415
+0.0366
+-0.0239
+-0.0257
+0.0018
+
+myrtenolspectrum1: 2 components found
+ component 1: FOUND: [1589.4      971.92       827.7] 105 upvotes, scaffold 2, p=3.8e-22
+ component 2: FOUND: [1701.6      871.65      802.15] 89 upvotes, scaffold 1, p=6.6e-58
+ final phase 1 report: 2 scaffolds, best scaffold net pval 4.5e-10 [1.3e+00 original], 4 constraints, [2.3e-05 1.1e-22], quads Quad sums:
+0.0110
+-0.0298
+0.0067
+0.0237
+0.0171
+-0.0341
+0.0408
+-0.0104
+
+cinnamaldehyde: 1 components found
+ component 1: FOUND: [4866.4      579.06      517.81] 107 upvotes, scaffold 1, p=9.6e-73
+ final phase 1 report: no scaffolds found, ran to line 40
+
+betapinene: 1 components found
+ component 1: FOUND: [1901.9      1293.7      1150.8] 63 upvotes, scaffold 7, p=2.8e-16
+ final phase 1 report: 32 scaffolds, best scaffold net pval 3.3e-15 [2.5e-07 original], 5 constraints, [1.4e-10 3.0e-27], quads Quad sums:
+-0.0097
+0.0410
+0.0262
+-0.0165
+-0.0342
+0.0769
+-0.0506
+-0.0068
+-0.0672
+0.0604
+
+Lemon oil: 1 components found
+ component 1: FOUND: [3058      717.04      679.25] 91 upvotes, scaffold 1, p=1.8e-41
+ final phase 1 report: 30 scaffolds, best scaffold net pval 1.4e-16 [1.1e+00 original], 5 constraints, [1.4e-09 2.0e-26], quads Quad sums:
+-0.0202
+0.0495
+0.0243
+-0.0606
+-0.0091
+0.0940
+-0.0697
+0.0115
+-0.0219
+0.0334
+
+benzaldehyde: 2 components found
+ component 1: FOUND: [5234.4      1564.3      1204.7] 57 upvotes, scaffold 1, p=2.6e-26
+ component 2: FOUND: [5229.6      1564.5      1205.4] 65 upvotes, scaffold 1, p=3.1e-15
+ final phase 1 report: no scaffolds found, ran to line 40
+
+myrtenal: 1 components found
+ component 1: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes, pattern 1, p=2.5e-25
+nopinone: 1 components found
+ component 1: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes, pattern 1, p=1.1e-13
+Summary for Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===1.444512e+02 secondsSummary for Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===5.951556e+01 secondsSummary for Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: scaffold, net pval 2.6e-76, 10 constraints
+FIT: FOUND: [1666.3 962.3 8.4e+02] 93 upvotes===15.4 secondsSummary for Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: scaffold, net pval 9.8e-48, 7 constraints
+FIT: FOUND: [1923.3 1297.6 1.2e+03] 64 upvotes===29.5 secondsSummary for Molecules/benzOD/benzOD_report.txt
+
+PATTERN 1: scaffold, net pval 1.8e-10, 3 constraints
+FIT: FOUND: [4679.2 1443.0 1.2e+03] 27 upvotes===59.2 secondsSummary for Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: scaffold, net pval 2.6e-76, 10 constraints
+FIT: FOUND: [1666.3 962.3 8.4e+02] 93 upvotes===15.7 secondsSummary for Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: scaffold, net pval 9.8e-48, 7 constraints
+FIT: FOUND: [1923.3 1297.6 1.2e+03] 64 upvotes===30.0 secondsSummary for Molecules/benzOD/benzOD_report.txt
+
+PATTERN 1: scaffold, net pval 1.8e-10, 3 constraints
+FIT: FOUND: [4679.2 1443.0 1.2e+03] 27 upvotes===57.3 secondsSummary for Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===10.9 secondsSummary for Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===4.1 secondsSummary for Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===23.9 secondsSummary for Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 7 lines,3 constraints, 57.7 kHz residuals,p=3e-09
+FIT: FOUND: [6041.2 2240.2 1.7e+03] 35 upvotes===3.9 secondsSummary for Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===11.4 secondsSummary for Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===4.6 secondsSummary for Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===27.0 secondsSummary for Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 7 lines,3 constraints, 57.7 kHz residuals,p=3e-09
+FIT: FOUND: [6041.2 2240.2 1.7e+03] 35 upvotes===4.0 secondsSummary for Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===15.0 secondsSummary for Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===27.2 secondsSummary for Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===4.1 secondsSummary for Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===24.5 secondsSummary for Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 7 lines,3 constraints, 57.7 kHz residuals,p=3e-09
+FIT: FOUND: [6041.2 2240.2 1.7e+03] 35 upvotes===3.8 secondsSummary for Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===13.7 secondsSummary for Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===4.6 secondsSummary for Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===12.3 secondsSummary for Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===5.1 secondsSummary for Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+NO FIT FOUND===77.6 secondsSummary for Molecules/angelica/angelica_report.txt
+NO FIT FOUND===0.2 secondsSummary for Molecules/benzaldehyde/benzaldehyde_report.txt
+NO FIT FOUND===0.1 secondsSummary for Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===5.6 secondsSummary for Molecules/florol/florol_report.txt
+
+PATTERN 2: seriesPair, 17 lines,13 constraints, 71.1 kHz residuals,p=5e-25
+FIT: FOUND: [1883.2 457.5 4.4e+02] 85 upvotes===233.4 secondsSummary for Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 1.4 kHz residuals,p=0.008
+FIT: FOUND: [4290.6 562.3 5.1e+02] 40 upvotes===33.1 secondsSummary for Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===16.9 secondsSummary for Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===5.2 secondsSummary for Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+NO FIT FOUND===9.6 secondsSummary for Molecules/angelica/angelica_report.txt
+NO FIT FOUND===0.2 secondsSummary for Molecules/benzaldehyde/benzaldehyde_report.txt
+NO FIT FOUND===0.1 secondsSummary for Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===5.5 secondsSummary for Molecules/florol/florol_report.txt
+
+PATTERN 2: seriesPair, 17 lines,13 constraints, 71.1 kHz residuals,p=5e-25
+FIT: FOUND: [1883.2 457.5 4.4e+02] 85 upvotes===339.4 secondsSummary for Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+NO FIT FOUND===12.1 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===15.8 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===4.7 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+NO FIT FOUND===136.8 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+NO FIT FOUND===0.2 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+NO FIT FOUND===0.2 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===5.0 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 2: seriesPair, 17 lines,13 constraints, 71.1 kHz residuals,p=5e-25
+FIT: FOUND: [1883.2 457.5 4.4e+02] 85 upvotes===321.7 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+NO FIT FOUND===10.0 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===17.5 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===17.1 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===4.6 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===22.0 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===5.4 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===88.4 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.1 2240.2 1.7e+03] 32 upvotes===5.7 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===11.3 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===7.3 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 17 lines,13 constraints, 8.5 kHz residuals,p=1e-37
+FIT: FOUND: [1881.2 457.5 4.4e+02] 66 upvotes===232.8 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4298.7 562.3 5.1e+02] 66 upvotes===29.3 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===20.5 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===20.4 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===5.3 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===79.1 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.1 2240.2 1.7e+03] 32 upvotes===5.3 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===10.4 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===6.4 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 17 lines,13 constraints, 8.5 kHz residuals,p=1e-37
+FIT: FOUND: [1881.2 457.5 4.4e+02] 66 upvotes===215.9 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4298.7 562.3 5.1e+02] 66 upvotes===27.3 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===19.2 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===16.5 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===6.2 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 2: seriesPair, 7 lines,3 constraints, 2856.6 kHz residuals,p=  8
+FIT: FOUND: [2786.0 992.4 7.0e+02] 17 upvotes===45.2 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.1 2240.2 1.7e+03] 32 upvotes===5.2 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===10.1 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===5.9 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 17 lines,13 constraints, 8.5 kHz residuals,p=1e-37
+FIT: FOUND: [1881.2 457.5 4.4e+02] 66 upvotes===103.8 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4298.7 562.3 5.1e+02] 66 upvotes===27.4 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===17.0 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===15.0 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===6.7 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===39.7 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.1 2240.2 1.7e+03] 32 upvotes===4.5 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===8.9 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===5.3 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 17 lines,13 constraints, 8.5 kHz residuals,p=1e-37
+FIT: FOUND: [1881.2 457.5 4.4e+02] 66 upvotes===76.2 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4298.7 562.3 5.1e+02] 66 upvotes===24.2 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===15.0 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: scaffold, net pval 1.7e-55, 8 constraints
+FIT: FOUND: [1666.6 962.4 8.4e+02] 96 upvotes===17.8 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: scaffold, net pval 9.8e-48, 7 constraints
+FIT: FOUND: [1923.3 1297.6 1.2e+03] 64 upvotes===11.7 secondsSummary for ../squareassign/Molecules/benzOD/benzOD_report.txt
+
+PATTERN 1: scaffold, net pval 1.8e-10, 3 constraints
+FIT: FOUND: [4679.2 1443.0 1.2e+03] 27 upvotes===28.2 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===14.8 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===4.9 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===40.7 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.1 2240.2 1.7e+03] 32 upvotes===4.8 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===8.4 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===6.0 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 17 lines,13 constraints, 8.5 kHz residuals,p=1e-37
+FIT: FOUND: [1881.2 457.5 4.4e+02] 66 upvotes===75.8 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4298.7 562.3 5.1e+02] 66 upvotes===23.7 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===14.7 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: scaffold, net pval 1.7e-55, 8 constraints
+FIT: FOUND: [1666.6 962.4 8.4e+02] 96 upvotes===16.0 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: scaffold, net pval 9.8e-48, 7 constraints
+FIT: FOUND: [1923.3 1297.6 1.2e+03] 64 upvotes===12.6 secondsSummary for ../squareassign/Molecules/benzOD/benzOD_report.txt
+
+PATTERN 1: scaffold, net pval 1.8e-10, 3 constraints
+FIT: FOUND: [4679.2 1443.0 1.2e+03] 27 upvotes===26.4 secondsSummary for ../squareassign/Molecules/alpha_terpineol/alpha_terpineol_report.txt
+NO FIT FOUND===910.0 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: scaffold, net pval 2.4e-11, 4 constraints
+FIT: FOUND: [1881.7 457.5 4.4e+02] 85 upvotes===72.3 secondsSummary for ../squareassign/Molecules/anisaldehyde/anisaldehyde_report.txt
+
+PATTERN 1: scaffold, net pval 9.3e-66, 9 constraints
+FIT: FOUND: [4661.9 698.4 6.1e+02] 90 upvotes===13.9 secondsSummary for ../squareassign/Molecules/ethylguiacol/ethylguiacol_report.txt
+NO FIT FOUND===1105.4 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: scaffold, net pval 1.9e-32, 5 constraints
+FIT: FOUND: [1902.0 1293.7 1.2e+03] 58 upvotes===7.8 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+NO FIT FOUND===10.8 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===24.9 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===4.9 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===31.5 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.1 2240.2 1.7e+03] 32 upvotes===4.5 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===8.8 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===5.2 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 17 lines,13 constraints, 8.5 kHz residuals,p=1e-37
+FIT: FOUND: [1881.2 457.5 4.4e+02] 66 upvotes===56.6 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4298.7 562.3 5.1e+02] 66 upvotes===20.0 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===12.3 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===12.6 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===4.6 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===30.3 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.1 2240.2 1.7e+03] 32 upvotes===4.3 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+NO FIT FOUND===1.5 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===4.9 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 17 lines,13 constraints, 8.5 kHz residuals,p=1e-37
+FIT: FOUND: [1881.2 457.5 4.4e+02] 66 upvotes===55.0 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4298.7 562.3 5.1e+02] 66 upvotes===20.0 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===12.8 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: scaffold, net pval 1.7e-55, 8 constraints
+FIT: FOUND: [1666.6 962.4 8.4e+02] 96 upvotes===14.0 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: scaffold, net pval 9.8e-48, 7 constraints
+FIT: FOUND: [1923.3 1297.6 1.2e+03] 64 upvotes===10.3 secondsSummary for ../squareassign/Molecules/benzOD/benzOD_report.txt
+
+PATTERN 1: scaffold, net pval 1.8e-10, 3 constraints
+FIT: FOUND: [4679.2 1443.0 1.2e+03] 27 upvotes===22.4 secondsSummary for ../squareassign/Molecules/alpha_terpineol/alpha_terpineol_report.txt
+NO FIT FOUND===544.8 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: scaffold, net pval 2.4e-11, 4 constraints
+FIT: FOUND: [1881.7 457.5 4.4e+02] 85 upvotes===57.9 secondsSummary for ../squareassign/Molecules/anisaldehyde/anisaldehyde_report.txt
+
+PATTERN 1: scaffold, net pval 9.3e-66, 9 constraints
+FIT: FOUND: [4661.9 698.4 6.1e+02] 90 upvotes===12.5 secondsSummary for ../squareassign/Molecules/ethylguiacol/ethylguiacol_report.txt
+NO FIT FOUND===659.0 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: scaffold, net pval 1.9e-32, 5 constraints
+FIT: FOUND: [1902.0 1293.7 1.2e+03] 58 upvotes===8.9 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+NO FIT FOUND===9.5 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===10.8 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===4.4 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===30.7 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.1 2240.2 1.7e+03] 32 upvotes===4.0 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===7.5 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===4.6 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 17 lines,13 constraints, 8.5 kHz residuals,p=1e-37
+FIT: FOUND: [1881.2 457.5 4.4e+02] 66 upvotes===54.8 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4298.7 562.3 5.1e+02] 66 upvotes===19.9 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===12.5 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.4 962.4 8.4e+02] 118 upvotes===97.4 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.2 1297.6 1.2e+03] 64 upvotes===90.5 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 2: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1940.1 1087.9 7.0e+02] 79 upvotes===645.0 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.1 2240.2 1.7e+03] 32 upvotes===55.6 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.3 1564.3 1.2e+03] 57 upvotes===70.9 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1902.1 1293.7 1.2e+03] 59 upvotes===43.2 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 10.0 kHz residuals,p=6e-17
+FIT: FOUND: [1631.0 926.1 8.9e+02] 43 upvotes===1580.1 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4298.7 562.3 5.1e+02] 66 upvotes===172.1 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.1 1183.4 1.1e+03] 45 upvotes===224.6 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 13.9 kHz residuals,p=3e-25
+FIT: FOUND: [1666.3 962.3 8.4e+02] 171 upvotes===115.0 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 7.0 kHz residuals,p=1e-13
+FIT: FOUND: [1923.1 1297.6 1.2e+03] 69 upvotes===38.2 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+PATTERN 1: seriesPair, 10 lines,6 constraints, 19.4 kHz residuals,p=1e-17
+FIT: FOUND: [1939.8 1087.9 7.0e+02] 139 upvotes===199.1 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+PATTERN 1: seriesPair, 5 lines,1 constraints, 2.9 kHz residuals,p=0.02
+FIT: FOUND: [6041.2 2240.2 1.7e+03] 46 upvotes===94.5 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 61.0 kHz residuals,p=2e-11
+FIT: FOUND: [5234.4 1564.3 1.2e+03] 59 upvotes===79.5 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+PATTERN 1: seriesPair, 8 lines,4 constraints, 15.0 kHz residuals,p=4e-12
+FIT: FOUND: [1901.9 1293.7 1.2e+03] 84 upvotes===117.6 secondsSummary for ../squareassign/Molecules/florol/florol_report.txt
+
+PATTERN 1: seriesPair, 17 lines,13 constraints, 8.5 kHz residuals,p=1e-37
+FIT: FOUND: [1881.6 457.5 4.4e+02] 108 upvotes===230.6 secondsSummary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+PATTERN 1: seriesPair, 13 lines,9 constraints, 25.8 kHz residuals,p=2e-35
+FIT: FOUND: [4302.2 562.3 5.1e+02] 145 upvotes===119.2 secondsSummary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+PATTERN 1: seriesPair, 12 lines,8 constraints, 30.7 kHz residuals,p=4e-20
+FIT: FOUND: [1447.0 1183.4 1.1e+03] 62 upvotes===202.5 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+FIT: FOUND: [1666.48 962.41 836.89] 110 upvotes===37.2 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+FIT: FOUND: [1923.23 1297.62 1164.01] 61 upvotes===37.0 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+FIT: FOUND: [1940.06 1087.93 700.32] 75 upvotes===88.5 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+NO FIT FOUND===0.1 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+FIT: FOUND: [5234.28 1564.29 1204.68] 58 upvotes===18.3 secondsSummary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+NO FIT FOUND===0.4 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+FIT: FOUND: [1666.48 962.41 836.89] 110 upvotes===37.4 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+FIT: FOUND: [1923.23 1297.62 1164.01] 61 upvotes===36.9 secondsSummary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+FIT: FOUND: [1940.06 1087.93 700.32] 75 upvotes===89.4 secondsSummary for ../squareassign/Molecules/angelica/angelica_report.txt
+NO FIT FOUND===0.0 secondsSummary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+FIT: FOUND: [5234.28 1564.29 1204.68] 58 upvotes===17.2 secondsSummary for ../squareassign/Molecules/mariealine/mariealine_report.txt
+NO FIT FOUND===78.3 secondsSummary for ../squareassign/Molecules/mariealine/mariealine_report.txt
+NO FIT FOUND===9.9 secondsSummary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+FIT: FOUND: [1666.59 962.40 836.89] 96 upvotes===36.3 secondsSummary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+FIT: FOUND: [1923.25 1297.61 1164.01] 64 upvotes===27.6 secondsSummary for ../squareassign/Molecules/benzOD/benzOD_report.txt
+NO FIT FOUND===61.0 seconds
+
+

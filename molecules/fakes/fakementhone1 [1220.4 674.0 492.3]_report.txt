@@ -1,0 +1,19 @@
+Summary for Molecules/fakes/fakementhone1 [1220.4 674.0 492.3]_report.txt
+
+FOUND: [1220.3      673.98      492.25] 196 upvotes
++++++++++++++++++++++++++
+
+=======================================
+species 1:
+FOUND: [1220.3      673.98      492.25] 196 upvotes, scaffold 1, p=1.7e-48
+70 seconds (10 in scaffold search, 60 in SPFIT search
+24 total calls to SPFIT
+110110->100109 11937.850000
+==============
+517 total flat squares
+ 95 scaffolds with 8 lines
+ 10 scaffolds with 10 lines
+ 2 scaffolds with 12 lines
+ 4 scaffolds with 14 lines
+ 1 scaffolds with 16 lines
+ 2 scaffolds with 18 lines

@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/oregano/oregano_report.txt
+
+FIT: FOUND: [2048.89 739.28 590.31] 88 upvotes

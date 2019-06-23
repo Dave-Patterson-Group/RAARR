@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Mixture Units="MHz" Version="Pgopher 7.1.108 13 Sep 2010 11:13" PlotUnits="MHz" ShowParts="True" UseUpper="True">
+<Species Name="Species" Jmax="32">
+<AsymmetricMolecule Name="Mola" Colour="Black" Jmin="0" Jmax="32">
+<AsymmetricManifold Name="Ground" Initial="True">
+<AsymmetricTop Name="v=0">
+<Parameter Name="A" Value="1953.431920"/>
+<Parameter Name="B" Value="694.514561"/>
+<Parameter Name="C" Value="586.576730"/>
+</AsymmetricTop>
+</AsymmetricManifold>
+<TransitionMoments Bra="Ground" Ket="Ground">
+<CartesianTransitionMoment Axis="a" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="1.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="b" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="c" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+</TransitionMoments>
+</AsymmetricMolecule>
+<AsymmetricMolecule Name="Molb" Colour="Black" Jmin="0" Jmax="32">
+<AsymmetricManifold Name="Ground" Initial="True">
+<AsymmetricTop Name="v=0">
+<Parameter Name="A" Value="1953.431920"/>
+<Parameter Name="B" Value="694.514561"/>
+<Parameter Name="C" Value="586.576730"/>
+</AsymmetricTop>
+</AsymmetricManifold>
+<TransitionMoments Bra="Ground" Ket="Ground">
+<CartesianTransitionMoment Axis="a" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="b" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="1.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="c" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+</TransitionMoments>
+</AsymmetricMolecule>
+<AsymmetricMolecule Name="Molc" Colour="Black" Jmin="0" Jmax="32">
+<AsymmetricManifold Name="Ground" Initial="True">
+<AsymmetricTop Name="v=0">
+<Parameter Name="A" Value="1953.431920"/>
+<Parameter Name="B" Value="694.514561"/>
+<Parameter Name="C" Value="586.576730"/>
+</AsymmetricTop>
+</AsymmetricManifold>
+<TransitionMoments Bra="Ground" Ket="Ground">
+<CartesianTransitionMoment Axis="a" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="b" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="c" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+</TransitionMoments>
+</AsymmetricMolecule>
+</Species>
+<Parameter Name="Temperature" Value="6.00"/>
+</Mixture>

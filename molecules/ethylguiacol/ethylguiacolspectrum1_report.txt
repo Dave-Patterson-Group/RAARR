@@ -1,0 +1,33 @@
+Summary for Molecules/ethylguiacol/ethylguiacolspectrum1_report.txt
+
+FOUND: [1640.4      802.45      567.84] 47 upvotes
++++++++++++++++++++++++++
+
+=======================================
+species 1:
+FOUND: [1640.4      802.45      567.84] 47 upvotes, scaffold 2, p=1.4e-20
+633 seconds (514 in scaffold search, 119 in SPFIT search
+72 total calls to SPFIT
+110110->100109 14034.583734
+Quad sums:
+-0.0012
+0.0078
+-0.0023
+-0.0067
+0.0055
+0.0006
+0.0268
+-0.0257
+-0.0005
+0.0011
+0.0263
+==============
+36478 total flat squares
+ 6970 scaffolds with 8 lines
+ 568 scaffolds with 10 lines
+ 22 scaffolds with 12 lines
+ 2 scaffolds with 14 lines
+ 2 scaffolds with 16 lines
+ 1 scaffolds with 18 lines
+ 2 scaffolds with 20 lines
+ 1 scaffolds with 22 lines

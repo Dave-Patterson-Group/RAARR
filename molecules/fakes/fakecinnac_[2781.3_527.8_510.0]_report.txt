@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/fakes/fakecinnac_[2781.3_527.8_510.0]_report.txt
+
+FIT: FOUND: [1574.32 518.87 519.18] 16 upvotes

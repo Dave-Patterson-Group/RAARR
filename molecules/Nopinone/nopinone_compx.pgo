@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Mixture Units="MHz" Version="Pgopher 8.0.305 22 Jan 2015 17:19 32 bit (Delphi 18.5/18)" PlotUnits="MHz">
+  <Species Name="Species" Jmax="64">
+    <AsymmetricMolecule Name="Mola" Colour="Black" Jmin="0" Jmax="64">
+      <AsymmetricManifold Name="Ground" Initial="True">
+        <AsymmetricTop Name="v=0">
+          <Parameter Name="A" Value="1923.251821"/>
+          <Parameter Name="B" Value="1297.606967"/>
+          <Parameter Name="C" Value="1164.006773"/>
+        </AsymmetricTop>
+      </AsymmetricManifold>
+      <TransitionMoments Colour="Blue" Bra="Ground" Ket="Ground">
+        <CartesianTransitionMoment Bra="v=0" Ket="v=0"/>
+        <CartesianTransitionMoment Axis="b" Bra="v=0" Ket="v=0">
+          <Parameter Name="Strength" Value="0"/>
+        </CartesianTransitionMoment>
+        <CartesianTransitionMoment Axis="c" Bra="v=0" Ket="v=0">
+          <Parameter Name="Strength" Value="0"/>
+        </CartesianTransitionMoment>
+      </TransitionMoments>
+    </AsymmetricMolecule>
+    <AsymmetricMolecule Name="Molb" Colour="Black" Jmin="0" Jmax="64">
+      <AsymmetricManifold Name="Ground" Initial="True">
+        <AsymmetricTop Name="v=0">
+          <Parameter Name="A" Value="1923.251821"/>
+          <Parameter Name="B" Value="1297.606967"/>
+          <Parameter Name="C" Value="1164.006773"/>
+        </AsymmetricTop>
+      </AsymmetricManifold>
+      <TransitionMoments Colour="Red" Bra="Ground" Ket="Ground">
+        <CartesianTransitionMoment Bra="v=0" Ket="v=0">
+          <Parameter Name="Strength" Value="0"/>
+        </CartesianTransitionMoment>
+        <CartesianTransitionMoment Axis="b" Bra="v=0" Ket="v=0"/>
+        <CartesianTransitionMoment Axis="c" Bra="v=0" Ket="v=0">
+          <Parameter Name="Strength" Value="0"/>
+        </CartesianTransitionMoment>
+      </TransitionMoments>
+    </AsymmetricMolecule>
+    <AsymmetricMolecule Name="Molc" Colour="Black" Jmin="0" Jmax="64">
+      <AsymmetricManifold Name="Ground" Initial="True">
+        <AsymmetricTop Name="v=0">
+          <Parameter Name="A" Value="1923.251821"/>
+          <Parameter Name="B" Value="1297.606967"/>
+          <Parameter Name="C" Value="1164.006773"/>
+        </AsymmetricTop>
+      </AsymmetricManifold>
+      <TransitionMoments Colour="Lime" Bra="Ground" Ket="Ground">
+        <CartesianTransitionMoment Bra="v=0" Ket="v=0">
+          <Parameter Name="Strength" Value="0"/>
+        </CartesianTransitionMoment>
+        <CartesianTransitionMoment Axis="b" Bra="v=0" Ket="v=0">
+          <Parameter Name="Strength" Value="0"/>
+        </CartesianTransitionMoment>
+        <CartesianTransitionMoment Axis="c" Bra="v=0" Ket="v=0">
+          <Parameter Name="Strength" Value="0"/>
+        </CartesianTransitionMoment>
+      </TransitionMoments>
+    </AsymmetricMolecule>
+  </Species>
+  <Parameter Name="Temperature" Value="6"/>
+  <FormSettings Name="MainWindow" Left="104" Top="104" Width="1440" Height="759"/>
+</Mixture>

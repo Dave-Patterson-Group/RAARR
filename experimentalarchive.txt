@@ -1,0 +1,57 @@
+
+BenzOD: 2 components found
+ component 1: FOUND: [4679.2        1443      1169.2] 27 upvotes, scaffold 1, p=1.8e-10
+ component 2: FOUND: [4667.7      1452.1      1163.6] 30 upvotes, scaffold 1, p=3.9e-10
+ final phase 1 report no scaffolds found, ran to line 40
+
+florol: 2 components found
+ component 1: FOUND: [1906      463.12       443.2] 102 upvotes, scaffold 1, p=3.0e-65
+ component 2: FOUND: [1881.6      457.52      438.71] 90 upvotes, scaffold 1, p=5.3e-22
+ final phase 1 report best scaffold net pval 2.7e-19 [2.8e-05 original], 5 constraints, [6.3e-11 6.0e-28]
+
+anisaldehyde: 2 components found
+ component 1: FOUND: [4661.9      698.39      610.06] 90 upvotes, scaffold 1, p=5.9e-66
+ component 2: FOUND: [4160.7      717.84      614.89] 87 upvotes, scaffold 1, p=4.8e-65
+ final phase 1 report best scaffold net pval 6.1e-11 [2.7e+00 original], 4 constraints, [6.7e-06 5.8e-23]
+
+menthonespectrum1: 2 components found
+ component 1: FOUND: [1953.7      694.53      586.57] 77 upvotes, scaffold 1, p=1.7e-54
+ component 2: FOUND: [2022      693.54      562.13] 112 upvotes, scaffold 1, p=5.6e-11
+ final phase 1 report best scaffold net pval 9.0e-12 [1.4e+01 original], 4 constraints, [5.9e-08 2.2e-23]
+
+myrtenal: 1 components found
+ component 1: FOUND: [1666.4      962.37       836.9] 125 upvotes, scaffold 1, p=1.0e-72
+ final phase 1 report no scaffolds found, ran to line 40
+
+alpha_pinene: 1 components found
+ component 1: FOUND: [1936.6      1228.6        1127] 74 upvotes, scaffold 4, p=2.8e-11
+ final phase 1 report no scaffolds found, ran to line 40
+
+ethylguiacolspectrum1: 1 components found
+ component 1: FOUND: [1640.4      802.44      567.85] 40 upvotes, scaffold 1, p=1.9e-40
+ final phase 1 report no scaffolds found, ran to line 40
+
+Nopinone: 3 components found
+ component 1: FOUND: [1923.3      1297.6        1164] 64 upvotes, scaffold 1, p=9.8e-48
+ component 2: FOUND: [1029.3      859.77      855.73] 17 upvotes, scaffold 1, p=5.5e-10
+ component 3: FOUND: [1147.8      858.47      857.15] 12 upvotes, scaffold 1, p=5.4e-10
+ final phase 1 report best scaffold net pval 2.9e-12 [2.0e+03 original], 5 constraints, [1.5e-13 6.0e-28]
+
+myrtenolspectrum1: 2 components found
+ component 1: FOUND: [1589.4      971.92       827.7] 105 upvotes, scaffold 2, p=3.8e-22
+ component 2: FOUND: [1701.6      871.65      802.15] 89 upvotes, scaffold 1, p=6.6e-58
+ final phase 1 report best scaffold net pval 4.5e-10 [1.3e+00 original], 4 constraints, [2.3e-05 1.1e-22]
+
+cinnamaldehyde: 1 components found
+ component 1: FOUND: [4866.4      579.06      517.81] 107 upvotes, scaffold 1, p=9.6e-73
+ final phase 1 report no scaffolds found, ran to line 40
+
+betapinene: 1 components found
+ component 1: FOUND: [1901.9      1293.7      1150.8] 63 upvotes, scaffold 7, p=2.8e-16
+ final phase 1 report best scaffold net pval 3.3e-15 [2.5e-07 original], 5 constraints, [1.4e-10 3.0e-27]
+
+benzaldehyde: 2 components found
+ component 1: FOUND: [5234.4      1564.3      1204.7] 57 upvotes, scaffold 1, p=2.6e-26
+ component 2: FOUND: [5229.6      1564.5      1205.4] 65 upvotes, scaffold 1, p=3.1e-15
+ final phase 1 report no scaffolds found, ran to line 35
+

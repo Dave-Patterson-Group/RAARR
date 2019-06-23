@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/ethylbutyrate/ethylbutyrate_report.txt
+
+FIT: FOUND: [500.88 403.93 381.39] 62 upvotes

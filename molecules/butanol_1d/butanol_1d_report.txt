@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/butanol_1d/butanol_1d_report.txt
+
+FIT: FOUND: [1733.79 341.81 311.61] 27 upvotes

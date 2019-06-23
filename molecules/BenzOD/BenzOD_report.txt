@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/benzOD/benzOD_report.txt
+
+FIT: FOUND: [4679.20 1442.99 1169.19] 27 upvotes
