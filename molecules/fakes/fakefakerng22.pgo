@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<Mixture Units="MHz" Version="Pgopher 7.1.108 13 Sep 2010 11:13" PlotUnits="MHz" ShowParts="True" UseUpper="True">
+<Species Name="Species" Jmax="64">
+<AsymmetricMolecule Name="Mola" Colour="Black" Jmin="0" Jmax="64">
+<AsymmetricManifold Name="Ground" Initial="True">
+<AsymmetricTop Name="v=0">
+<Parameter Name="A" Value="1025.700849"/>
+<Parameter Name="B" Value="478.526531"/>
+<Parameter Name="C" Value="382.637387"/>
+<Parameter Name="DK" Value="0.000000"/>
+<Parameter Name="DJK" Value="0.000000"/>
+<Parameter Name="DJ" Value="0.000000"/>
+<Parameter Name="deltaK" Value="0.000000"/>
+<Parameter Name="deltaJ" Value="0.000000"/>
+</AsymmetricTop>
+</AsymmetricManifold>
+<TransitionMoments Colour="Blue" Bra="Ground" Ket="Ground">
+<CartesianTransitionMoment Axis="a" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="1.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="b" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="c" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+</TransitionMoments>
+</AsymmetricMolecule>
+<AsymmetricMolecule Name="Molb" Colour="Black" Jmin="0" Jmax="64">
+<AsymmetricManifold Name="Ground" Initial="True">
+<AsymmetricTop Name="v=0">
+<Parameter Name="A" Value="1025.700849"/>
+<Parameter Name="B" Value="478.526531"/>
+<Parameter Name="C" Value="382.637387"/>
+<Parameter Name="DK" Value="0.000000"/>
+<Parameter Name="DJK" Value="0.000000"/>
+<Parameter Name="DJ" Value="0.000000"/>
+<Parameter Name="deltaK" Value="0.000000"/>
+<Parameter Name="deltaJ" Value="0.000000"/>
+</AsymmetricTop>
+</AsymmetricManifold>
+<TransitionMoments Colour="Red" Bra="Ground" Ket="Ground">
+<CartesianTransitionMoment Axis="a" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="b" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="1.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="c" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+</TransitionMoments>
+</AsymmetricMolecule>
+<AsymmetricMolecule Name="Molc" Colour="Black" Jmin="0" Jmax="64">
+<AsymmetricManifold Name="Ground" Initial="True">
+<AsymmetricTop Name="v=0">
+<Parameter Name="A" Value="1025.700849"/>
+<Parameter Name="B" Value="478.526531"/>
+<Parameter Name="C" Value="382.637387"/>
+<Parameter Name="DK" Value="0.000000"/>
+<Parameter Name="DJK" Value="0.000000"/>
+<Parameter Name="DJ" Value="0.000000"/>
+<Parameter Name="deltaK" Value="0.000000"/>
+<Parameter Name="deltaJ" Value="0.000000"/>
+</AsymmetricTop>
+</AsymmetricManifold>
+<TransitionMoments Colour="Lime" Bra="Ground" Ket="Ground">
+<CartesianTransitionMoment Axis="a" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="b" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+<CartesianTransitionMoment Axis="c" Bra="v=0" Ket="v=0">
+<Parameter Name="Strength" Value="0.00"/>
+</CartesianTransitionMoment>
+</TransitionMoments>
+</AsymmetricMolecule>
+</Species>
+<Parameter Name="Temperature" Value="6.00"/>
+</Mixture>

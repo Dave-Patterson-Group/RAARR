@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/ginger/ginger_report.txt
+
+FIT: FOUND: [682.58 409.13 355.27] 44 upvotes

@@ -1,0 +1,16 @@
+Summary for Molecules/fakes/fakebigoblate_report.txt
+
+FOUND: [1866.4      1679.1      1217.8] 83 upvotes
++++++++++++++++++++++++++
+
+=======================================
+species 1:
+FOUND: [1866.4      1679.1      1217.8] 83 upvotes, scaffold 2, p=6.7e-15
+144 seconds (71 in scaffold search, 74 in SPFIT search
+60 total calls to SPFIT
+40103->30102 11472.126500
+==============
+6953 total flat squares
+ 572 scaffolds with 8 lines
+ 38 scaffolds with 10 lines
+ 2 scaffolds with 12 lines

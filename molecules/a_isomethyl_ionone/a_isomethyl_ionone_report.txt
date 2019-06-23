@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/a_isomethyl_ionone/a_isomethyl_ionone_report.txt
+
+FIT: FOUND: [909.58 373.23 350.63] 89 upvotes

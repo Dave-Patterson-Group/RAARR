@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/hexanal/hexanal_report.txt
+
+FIT: FOUND: [9735.59 868.85 818.51] 39 upvotes

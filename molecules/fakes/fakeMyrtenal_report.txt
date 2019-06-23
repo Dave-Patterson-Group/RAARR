@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/fakes/fakeMyrtenal_report.txt
+
+FIT: FOUND: [1666.53 836.89 962.38] 120 upvotes

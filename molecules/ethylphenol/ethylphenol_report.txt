@@ -1,0 +1,3 @@
+Summary for ../squareassign/Molecules/ethylphenol/ethylphenol_report.txt
+
+FIT: FOUND: [1743.84 535.80 478.76] 27 upvotes

@@ -1,0 +1,73 @@
+
+********* Unexpected exception detected - 2/18/2019 2:24:45 PM *********
+Pgopher 8.0.305 22 Jan 2015 17:19 32 bit (Delphi 18.5/18)
+Exception code: EOutOfMemory
+Exception address:  Routine @System@DynArraySetLength(0040753F = 0000653F)
+
+Call stack (oldest call at bottom):
+call stack - 0 : Module StackDump.pas Routine @Stackdump@InterceptRaiseException Line 64(00487F42 = 00086F42)
+call stack - 1 : Module Progress.pas Routine @Progress@CheckForAbort Line 141(0064B082 = 0024A082)
+call stack - 2 : Module Progress.pas Routine @Progress@CheckForAbort Line 141(0064B082 = 0024A082)
+call stack - 3 : Module Progress.pas Routine @Progress@SetProgress Line 186(0064B286 = 0024A286)
+call stack - 4 : Module Mixture.pas Routine @Mixture@TMolecule@AddToSpectrum Line 3037(00771ECC = 00370ECC)
+call stack - 5 : Module Mixture.pas Routine @Mixture@TSpecies@AddToSpectrum Line 3435(00773304 = 00372304)
+call stack - 6 : Module Mixture.pas Routine @Mixture@TMixture@AddToSpectrum Line 3795(0077490C = 0037390C)
+call stack - 7 : Module Mixture.pas Routine @Mixture@TSimulation@MakeLineList Line 8858(0078868C = 0038768C)
+call stack - 8 : Module SpectrumPlot.pas Routine @Spectrumplot@TAbstractPlot@MakeFromSimulation Line 217(00759B2C = 00358B2C)
+call stack - 9 : Module Plotter.pas Routine @Plotter@MakeLowerPlot Line 128(006D9359 = 002D8359)
+call stack - 10 : Module PlotFrm.pas Routine @Plotfrm@TPlotForm@ShowSimulation Line 261(00735643 = 00334643)
+call stack - 11 : Module Main.pas Routine @Main@TMainForm@ShowSimulation Line 757(006E719A = 002E619A)
+call stack - 12 : Module Main.pas Routine @Main@TMainForm@DoPlot Line 781(006E72D5 = 002E62D5)
+call stack - 13 : Module PlotFrm.pas Routine @Plotfrm@TPlotForm@SimulateButtonClick Line 958(00737B7C = 00336B7C)
+call stack - 14 : Module Controls.pas Routine @Controls@TControl@Click Line 5229(00462746 = 00061746)
+call stack - 15 : Module Controls.pas Routine @Controls@TControl@DoMouseUp Line 5355(00462B49 = 00061B49)
+call stack - 16 : Module Controls.pas Routine @Controls@TControl@Perform Line 5021(00461ECB = 00060ECB)
+call stack - 17 : Module Controls.pas Routine @Controls@TWinControl@IsControlMouseMsg Line 7182(00465D2A = 00064D2A)
+call stack - 18 : Module ComCtrls.pas Routine @Comctrls@TToolBar@WndProc Line 19588(005AC376 = 001AB376)
+call stack - 19 : Module Controls.pas Routine @Controls@TWinControl@MainWndProc Line 7073(0046595F = 0006495F)
+call stack - 20 : Module Classes.pas Routine @Classes@StdWndProc Line 11582(00424712 = 00023712)
+call stack - 21 : (no debug info)(7489BF17 = 7449AF17)
+call stack - 22 : (no debug info)(748983E6 = 744973E6)
+call stack - 23 : (no debug info)(74897C9A = 74496C9A)
+call stack - 24 : (no debug info)(7488CDCC = 7448BDCC)
+call stack - 25 : Module Forms.pas Routine @Forms@TApplication@ProcessMessage Line 8105(00480E69 = 0007FE69)
+
+*****************************************************************
+
+
+********* Unexpected exception detected - 2/18/2019 2:25:42 PM *********
+Pgopher 8.0.305 22 Jan 2015 17:19 32 bit (Delphi 18.5/18)
+Exception code: EOutOfMemory
+Exception address:  Routine @System@DynArraySetLength(0040753F = 0000653F)
+
+Call stack (oldest call at bottom):
+call stack - 0 : Module StackDump.pas Routine @Stackdump@InterceptRaiseException Line 64(00487F42 = 00086F42)
+call stack - 1 :  Routine @System@DynArraySetLength(0040753B = 0000653B)
+call stack - 2 :  Routine @System@@DynArraySetLength(00407612 = 00006612)
+call stack - 3 : Module Mixture.pas Routine DoLine Line 5178(00779E69 = 00378E69)
+call stack - 4 : Module Mixture.pas Routine @Mixture@TTransitionMoments@AddMatrixToSpectrum Line 5202(00779FA4 = 00378FA4)
+call stack - 5 : Module Mixture.pas Routine @Mixture@TTransitionMoments@AddToSpectrum Line 5162(00779D7C = 00378D7C)
+call stack - 6 : Module Mixture.pas Routine @Mixture@TMolecule@AddToSpectrum Line 3043(00771FD3 = 00370FD3)
+call stack - 7 : Module Mixture.pas Routine @Mixture@TSpecies@AddToSpectrum Line 3435(00773304 = 00372304)
+call stack - 8 : Module Mixture.pas Routine @Mixture@TMixture@AddToSpectrum Line 3795(0077490C = 0037390C)
+call stack - 9 : Module Mixture.pas Routine @Mixture@TSimulation@MakeLineList Line 8858(0078868C = 0038768C)
+call stack - 10 : Module SpectrumPlot.pas Routine @Spectrumplot@TAbstractPlot@MakeFromSimulation Line 217(00759B2C = 00358B2C)
+call stack - 11 : Module Plotter.pas Routine @Plotter@MakeLowerPlot Line 128(006D9359 = 002D8359)
+call stack - 12 : Module PlotFrm.pas Routine @Plotfrm@TPlotForm@ShowSimulation Line 261(00735643 = 00334643)
+call stack - 13 : Module Main.pas Routine @Main@TMainForm@ShowSimulation Line 757(006E719A = 002E619A)
+call stack - 14 : Module Main.pas Routine @Main@TMainForm@DoPlot Line 781(006E72D5 = 002E62D5)
+call stack - 15 : Module PlotFrm.pas Routine @Plotfrm@TPlotForm@SimulateButtonClick Line 958(00737B7C = 00336B7C)
+call stack - 16 : Module Controls.pas Routine @Controls@TControl@Click Line 5229(00462746 = 00061746)
+call stack - 17 : Module Controls.pas Routine @Controls@TControl@DoMouseUp Line 5355(00462B49 = 00061B49)
+call stack - 18 : Module Controls.pas Routine @Controls@TControl@Perform Line 5021(00461ECB = 00060ECB)
+call stack - 19 : Module Controls.pas Routine @Controls@TWinControl@IsControlMouseMsg Line 7182(00465D2A = 00064D2A)
+call stack - 20 : Module ComCtrls.pas Routine @Comctrls@TToolBar@WndProc Line 19588(005AC376 = 001AB376)
+call stack - 21 : Module Controls.pas Routine @Controls@TWinControl@MainWndProc Line 7073(0046595F = 0006495F)
+call stack - 22 : Module Classes.pas Routine @Classes@StdWndProc Line 11582(00424712 = 00023712)
+call stack - 23 : (no debug info)(7489BF17 = 7449AF17)
+call stack - 24 : (no debug info)(748983E6 = 744973E6)
+call stack - 25 : (no debug info)(74897C9A = 74496C9A)
+call stack - 26 : (no debug info)(7488CDCC = 7448BDCC)
+
+*****************************************************************
+

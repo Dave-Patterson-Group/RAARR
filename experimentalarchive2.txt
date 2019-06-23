@@ -1,0 +1,55 @@
+===after porting to distribution directory
+
+test at 20-Jun-2019 22:26:15
+test at 20-Jun-2019 22:27:07
+test at 20-Jun-2019 22:28:46
+Summary for ../squareassign/Molecules/ethylguiacol/ethylguiacol_report.txt
+
+FIT: FOUND: [1640.45 802.45 567.84] 53 upvotes===99.6 seconds method scaffold
+Summary for ../squareassign/Molecules/benzOD/benzOD_report.txt
+
+FIT: FOUND: [4679.20 1442.99 1169.19] 27 upvotes===68.0 seconds method scaffold
+Summary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+FIT: FOUND: [1666.59 962.40 836.89] 96 upvotes===39.4 seconds method scaffold
+Summary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+FIT: FOUND: [1923.25 1297.61 1164.01] 64 upvotes===31.8 seconds method scaffold
+Summary for ../squareassign/Molecules/florol/florol_report.txt
+
+FIT: FOUND: [1881.70 457.52 438.71] 85 upvotes===116.7 seconds method scaffold
+Summary for ../squareassign/Molecules/anisaldehyde/anisaldehyde_report.txt
+
+FIT: FOUND: [4661.91 698.39 610.06] 90 upvotes===28.0 seconds method scaffold
+Summary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+FIT: FOUND: [1902.01 1293.69 1150.82] 58 upvotes===26.2 seconds method scaffold
+Summary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+
+FIT: FOUND: [1939.88 1087.90 700.32] 94 upvotes===41.1 seconds method scaffold
+Summary for ../squareassign/Molecules/myrtenal/myrtenal_report.txt
+
+FIT: FOUND: [1666.44 962.40 836.89] 92 upvotes===203.5 seconds method atype
+Summary for ../squareassign/Molecules/nopinone/nopinone_report.txt
+
+FIT: FOUND: [1923.23 1297.62 1164.01] 64 upvotes===56.3 seconds method atype
+Summary for ../squareassign/Molecules/m_anisaldehyde/m_anisaldehyde_report.txt
+NO FIT FOUND===270.9 seconds method atype
+Summary for ../squareassign/Molecules/angelica/angelica_report.txt
+
+FIT: FOUND: [6041.13 2240.20 1668.30] 53 upvotes===28.2 seconds method atype
+Summary for ../squareassign/Molecules/benzaldehyde/benzaldehyde_report.txt
+
+FIT: FOUND: [5234.28 1564.29 1204.68] 57 upvotes===55.7 seconds method atype
+Summary for ../squareassign/Molecules/betapinene/betapinene_report.txt
+
+FIT: FOUND: [1902.05 1293.71 1150.82] 59 upvotes===36.6 seconds method atype
+Summary for ../squareassign/Molecules/florol/florol_report.txt
+
+FIT: FOUND: [1881.20 457.54 438.71] 66 upvotes===614.6 seconds method atype
+Summary for ../squareassign/Molecules/cinnamyl_alcohol/cinnamyl_alcohol_report.txt
+
+FIT: FOUND: [4298.72 562.29 513.75] 65 upvotes===61.7 seconds method atype
+Summary for ../squareassign/Molecules/eucalyptus/eucalyptus_report.txt
+
+FIT: FOUND: [1447.12 1183.42 1097.09] 60 upvotes===276.1 seconds method atype
