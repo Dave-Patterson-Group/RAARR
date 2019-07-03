@@ -95,7 +95,7 @@ isotopefitting.spurratiomin = 0.001;
 ts.isotopefitting = isotopefitting;
 
 patternfitting.numABCs = 3;
-patternfitting.maxcomponents = 1;
+patternfitting.maxcomponents = 3;
 patternfitting.maxpatterns = 20;
 patternfitting.actypes = [0];  %try both ab and ac
 %patternfitting.actypes = [1];  %try just ac
@@ -167,15 +167,15 @@ bowties.divthresh2 = 8;
 bowties.divthreshs = 105;
 bowties.dthresh = 0.05;
 bowties.hsdivthresh = 3500;
-bowties.rmsthresh = 0.005;
-bowties.percentmaxdiff = 0.08;
-bowties.percenth14diff = 0.04;
+bowties.rmsthresh = 1;%0.005;
+bowties.percentmaxdiff = 0.1;%0.08;
+bowties.percenth14diff = 0.05;%0.04;
 bowties.leftsq = 0.02;
 bowties.rightsq = 0.02;
 bowties.prll1 = 0.02;
 bowties.prll2 = 0.02;
 bowties.inttest = 0;
-bowties.ratiovar = 0.045;
+bowties.ratiovar = 0.05;%0.045;
 ts.bowties = bowties;
 
 

@@ -2,63 +2,108 @@ function TEST_ALL_BLIND_SPFIT
     csvfiles = dir('molecules/**/*.csv');
     molecules = string(zeros(1,length(csvfiles)));
     for i = 1:length(csvfiles)
-        if strncmp('molecules/fakes/',csvfiles(i).name,16)
+        if strcmp('molecules\fakes',csvfiles(i).folder(end-14:end)) || ...
+                strcmp('molecules\theory templates',csvfiles(i).folder(end-25:end))
             continue;
         end
         molecules(i) = string([csvfiles(i).folder '\' csvfiles(i).name]);
     end
     molecules = unique(molecules);
+    molecules = molecules(3:end);
     nummolecules = length(molecules);
     
     ts = settingsfromtightness(0);
-    fp = ts.bowties();
+    fp = ts.bowties;
+    
     for i = 1:nummolecules
-        fig = figure('units', 'normalized', 'OuterPosition', [0 0 1 0.95]);
-        hold all;
-        title(molecules(i));
+        fprintf('\ni = %d, Testing %s:\n', i, molecules(i));
         tic
-        fprintf('\nTesting %s:\n', molecules(i));
-        
+        try
+            kit = kitfromcsvfile(molecules(i));
+        catch
+            "Sorry, this file can't be opened.\n"
+            continue;
+        end
+        molstr = regexprep(molecules(i), '\\', '\\\\');
+        plotlinelist(kit,0,molstr);
         component = 1;
         savept = [0 0 0];
-        for j = 1:5
+        failedOne = false;
+        consts = zeros(0,3);
+        for j = 1:6
+            if mod(j,2)
+                fp.weakAorB = false;
+            else
+                fp.weakAorB = true;
+            end
             try
                 if component == 1
-                    [bestfit,kit,~] = quadsearchSPFIT_refactored(molecules(i), fp, 30);
+                    [bestfit,kit,~] = quadsearchSPFIT_refactored(molecules(i), fp, 60);
                 elseif ~all(savept == 0)
-                    [bestfit,kit,~] = quadsearchSPFIT_refactored(molecules(i), fp, component*30, savept);
+                    [bestfit,kit,~] = quadsearchSPFIT_refactored(kit, fp, component*60, savept);
                 else
-                    [bestfit,kit,~] = quadsearchSPFIT_refactored(kit, fp, component*30);
+                    [bestfit,kit,~] = quadsearchSPFIT_refactored(kit, fp, component*60);
                 end
             catch
-                continue;
+                break;
             end
             if ~isstruct(bestfit)
-                continue;
+                if failedOne
+                    break;
+                else
+                    failedOne = true;
+                    component = component + 1;
+                    savept = [0 0 0];
+                    continue;
+                end
             end
             bestfit = testfitonfshs(bestfit,kit.onedpeakfs,kit.onedpeakhs);
             if bestfit.yesvotes < 8
+                savept = bestfit.savept;
                 continue;
-            end
-            plotlinelist(bestfit, component, bestfit.ABC);
+            else
+                failedOne = false;
+                savept = [0 0 0];
+                dashIdx = strfind(bestfit.shortstring,'-');
+                plotlinelist(bestfit, component, bestfit.shortstring(1:dashIdx(1)-1));
 
-            kit.onedpeakfs = bestfit.onedpeakfs;
-            kit.onedpeakhs = bestfit.onedpeakhs;
-            component = component + 1;
+                kit.onedpeakfs = bestfit.onedpeakfs;
+                kit.onedpeakhs = bestfit.onedpeakhs;
+                component = component + 1;
+
+                if j == 6
+                    "LOOKED THROUGH ALL LINES IN SPECTRUM"
+                end
+            end
         end
     end
 end
 
-function plotlinelist(outputs, component, conststr)
-    if component == 1
-        expfs = outputs.expfreq;
-        exphs = outputs.expheight;
-        stickplot(expfs,exphs,'b','experiment');
+function plotlinelist(outputs, component, txtstr)
+    if component == 0
+        fig = figure('units', 'normalized', 'OuterPosition', [0 0 1 0.95]);
+        hold all;
+        title(txtstr);
+        expfs = outputs.onedpeakfs;
+        exphs = outputs.onedpeakhs;
+        freqs = outputs.freqs1d;
+        amps = outputs.amps1d;
+        stickplot(freqs,amps,'b','experiment');
+%         stickplot(expfs,exphs,'b','experiment');
+    else
+        theoryfs = outputs.unstretchedpredictedf;
+        theoryhs = outputs.predictedh * mean(outputs.hiths) / mean(outputs.predictedh);
+        alltheoryfs = outputs.allpredictedf;
+        alltheoryhs = outputs.allpredictedh * mean(outputs.hiths) / mean(outputs.predictedh);
+        xl = xlim();
+        idxs = find(alltheoryfs > xl(1) & alltheoryfs < xl(2));
+        alltheoryfs = alltheoryfs(idxs);
+        alltheoryhs = alltheoryhs(idxs);
+        stickplot(alltheoryfs,-alltheoryhs,fliplr(colorHash(outputs.fit,component)),['all theory ' txtstr]);
+%         stickplot([theoryfs outputs.hitfs],[-theoryhs theoryhs],colorHash(outputs.fit,component),['theory ' txtstr]);
+        stickplot(theoryfs,-theoryhs,colorHash(outputs.fit,component),['fit theory ' txtstr]);
+        legend(gca,'show');
     end
-    theoryfs = outputs.unstretchedpredictedf;
-    theoryhs = outputs.predictedh * mean(outputs.hiths) / mean(outputs.predictedh);
-    stickplot(theoryfs,-theoryhs,colorHash(outputs.fit,component),['theory ' num2str(conststr)]);
-    legend(gca,'show');
     drawnow;
 end
 

@@ -4,7 +4,6 @@
 % - an octet is formatted [series1high, series2high, series3high, series4high,
 %   series1low, series2low, series3low, series4low]
 function [converged, kit, times] = quadsearchSPFIT_refactored(csvfilenameORkit, fit_params, cont, savept)
-tic
 if nargin < 2
     fit_params = settingsfromtightness();
     fit_params = fit_params.bowties();
@@ -228,9 +227,8 @@ for j3 = 1:m
                     times(4:5) = [times(4)+toc-t4, times(5)+nts];
                     if isstruct(bestfit)
                         bestfit.ABC = [bestfit.info.params.a bestfit.info.params.b bestfit.info.params.c];
-                        dashIdx = strfind(bestfit.shortstring,'-'); fprintf(strcat("\t",bestfit.shortstring(1:dashIdx(1)-1),'\t\t%.1f seconds'),toc);
                         if isGoodABC(bestfit.ABC)
-                            %fittedkit = testfitonfshs(bestfit,minocteths,fs,hs); %fprintf(fittedkit.fitdescriptor); %rayK = findRayK(bestfit.ABC);
+                            dashIdx = strfind(bestfit.shortstring,'-'); fprintf(strcat("\t",bestfit.shortstring(1:dashIdx(1)-1),'\t\t%.1f seconds'),toc);
                             return;
                         else
                             bestfit = 0;

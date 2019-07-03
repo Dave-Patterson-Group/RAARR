@@ -6,7 +6,10 @@ function fit = testfitonfshs(fit,fs,hs)
 explineset = observablelines(fit.minocteths,fs,hs);
 predictlist = pairlistnearfit(fit);
 [fit.typestring, fit.branchstring, fit.branchtypestring, fit.fitdescriptor] = deal(strings(1,3));
-
+fit.allpredictedf = extractfieldsfromcellarray(predictlist,{'delf'});
+fit.allpredictedf = fit.allpredictedf.delf;
+fit.allpredictedh = extractfieldsfromcellarray(predictlist,{'realinten'});
+fit.allpredictedh = fit.allpredictedh.realinten;
 predictlist = trimpairs(predictlist,explineset.fmin,explineset.fmax);
 predictlist = trimweirdpairs(predictlist);
 predictlist = trimweakpairs(predictlist);
